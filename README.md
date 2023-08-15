@@ -1,6 +1,6 @@
 
 
-# NX AWS SAM
+# NX AWS SAM MONOREPO
 
 <p>A Monorepo Starter for Serverless Node.js Applications with AWS SAM and Github Actions Pre-Configured 🚀</p>
 
